@@ -1,0 +1,40 @@
+{
+  "errorCode": 0,
+  "data": [
+    {
+      "huntGroup": "4000",
+      "statistic": {
+        "agentAvailable": 0,
+        "queue": 0
+      }
+    },
+    {
+      "huntGroup": "5000",
+      "statistic": {
+        "agentAvailable": 0,
+        "queue": 0
+      }
+    },
+    {
+      "huntGroup": "2000",
+      "statistic": {
+        "agentAvailable": 0,
+        "queue": 0
+      }
+    },
+    {
+      "huntGroup": "1000",
+      "statistic": {
+        "agentAvailable": 0,
+        "queue": 0
+      }
+    },
+    {
+      "huntGroup": "3000",
+      "statistic": {
+        "agentAvailable": 0,
+        "queue": 0
+      }
+    }
+  ]
+}
